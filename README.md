@@ -3,7 +3,7 @@
 ### Junior Software Engineer 👋 Kürşad Talha KURT 
 
 # Ben Junior Software Engineer
- Merhaba! Ben Fatih Kayacı, genç ve tutkulu bir Backend geliştiricisiyim. Yazılım dünyasına olan ilgim, lise yıllarıma dayanıyor. Bu tutkum, üniversitedeki bilgisayar mühendisliği dersleriyle daha da pekişti ve o zamandan beri kendimi sürekli olarak geliştirmek için çalışıyorum.
+ Merhaba! Ben Kürşad Talha Kurt, genç ve tutkulu bir Frontend ve Oyun geliştiricisiyim. Yazılım dünyasına olan ilgim, lise yıllarıma dayanıyor. Bu tutkum, üniversitedeki bilgisayar mühendisliği dersleriyle daha da pekişti ve o zamandan beri kendimi sürekli olarak geliştirmek için çalışıyorum.
 
 Yazılım geliştirme sürecinin her aşamasından büyük keyif alıyorum: bir problemin analiz edilip çözüme kavuşmasından, temiz ve verimli kod yazmaya, performans optimizasyonlarına kadar. Yeni teknolojileri öğrenmek, bu teknolojileri projelerimde kullanmak ve her gün kendime yeni meydan okumalar yaratmak benim için büyük bir heyecan kaynağı.
 
@@ -12,31 +12,22 @@ Yazılım geliştirme sürecinin her aşamasından büyük keyif alıyorum: bir 
 ## Hakkımda
 
 - 🎓 Eğitim: Bilgisayar Mühendisliği Lisans
-- 💼 Çalışma Durumu: Şu anda herhangi bir yerde çalışmıyorum. 3 arkadaş proje geliştiriyoruz.
-- 🌱 Şu anda öğreniyorum: şu an C# yazılım bilgimi geliştiriyorum, .Net teknolojisini ve AWS bulut bilişimini öğrenmeye başladım.
-- 🛠️ Uzmanlık Alanlarım: PHP, Java, JavaScript, C#, Html, Css, Unity
-- ⚡ İlgi Alanlarım: bütün yazılıma ilgim var.
+- 💼 Çalışma Durumu: Şu anda herhangi bir yerde çalışmıyorum.
+- 🌱 Şu anda öğreniyorum: şu an C# yazılım bilgimi geliştiriyorum. Unity oyun motorunda tecrübe ediniyorum.
+- 🛠️ Uzmanlık Alanlarım: Java, JavaScript, C#, Html, Css, Unity
+- ⚡ İlgi Alanlarım: Web site ön yüz geliştirmeyi ve oyun yazılımı ile ilgili kendimi geliştirmeyi severim.
 
 ## Projelerim
 
-### Katsis
-- **Açıklama:** Bu projemde bina yönetim sistemi yapmaya çalışıyoruz. Binada oturan kiracı ve katmaliklerinin, binayı yöneten yöneticilerin binadaki gelişen tadilat, tamirat için toplanması gereken aidatların, ödenmesi gerek faturaların sistemden kolayca ödenebilmesi hem oturan kişilerin hemde yöneticilerin işlerini bayağa bir kolaylaştırmayı hedefleyen bir proje.
-- **Teknolojiler:** Html, CSS, JavaScript, Php, MySql dillerini ve teknolojilerini kullanmaya çalışıyoruz.
-- **GitHub Repo:** https://github.com/fatihkayaci/Katsis
+### WWW.OZELBAFRASAGLİKKABİNİ.COM
 
-## Yapmayı Planladığım Projelerim
-
-### Simple Dotnet Algorithm
-- **Açıklama:** Bu projemde hem kendi algoritma yeteneğimi geliştirmek hemde birazda olsun C# yeteneklerimi geliştirmek için en basitten zora doğru giden bir algoritma repositories oluşturmayı hedefliyorum.
-- **Teknolojiler:** C#.
-- **GitHub Repo:** (https://github.com/fatihkayaci/SimpleDotnetAlgorithm)
-
-### not = daha yapacağım projeler mevcut ama daha repo'sunu oluşturmadığım için şu anlık beklemede.
+- **Açıklama:** 2 Kişilik ekip halinde yaptığımız bu projede medikal bir websitesi hazırladık. Websitenin front-end kısmını kendim tasarlayıp kodladım. 
+- **Teknolojiler:** Html, CSS, JavaScript, Php, MySql dillerini ve teknolojilerini kullandık.
 
 ## İletişim
 
-- 📫 Bana ulaşın: fatihkayaci@yahoo.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/fatih-kayacı-79180a28a/
+- 📫 Bana ulaşın: kursadtalha@hotmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/k%C3%BCr%C5%9Fad-talha-kurt-642912218/
 
 ⭐️ Bu projeyi beğendiyseniz, lütfen GitHub'ta yıldız vermeyi unutmayın!
 
