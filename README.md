@@ -1,4 +1,4 @@
-<img src="BackEndDeveloper.png" />
+<img src="TitleWallpaper.png" />
 
 ### Junior Software Engineer 👋 Fatih Kayacı 
 
